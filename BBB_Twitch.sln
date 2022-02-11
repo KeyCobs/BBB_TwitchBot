@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32113.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBB_Twitch", "BBB_Twitch\BBB_Twitch.csproj", "{4B667A53-84DA-48D7-979C-DC2392A467E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B667A53-84DA-48D7-979C-DC2392A467E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B667A53-84DA-48D7-979C-DC2392A467E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B667A53-84DA-48D7-979C-DC2392A467E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B667A53-84DA-48D7-979C-DC2392A467E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99239645-CDA1-42AD-9032-CA168648C9B0}
+	EndGlobalSection
+EndGlobal
